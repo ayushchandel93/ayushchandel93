@@ -1,20 +1,16 @@
-## Hi there 👋
+Hi there 👋, I’m Ayush Chandel
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+🚀 Data Engineer | BI Engineer | Data Analyst
+📊 Turning raw data into actionable insights with modern data engineering & analytics.
 
-<!--
-**ayushchandel93/ayushchandel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 MS in Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 4+ years in data engineering, BI, and analytics
+
+⚡ Skilled at ETL pipelines, SQL, Power BI, DAX, Azure, and Data Lakes
+
+🔎 Passionate about AI in Data Engineering & Analytics
+
+📍 Currently working in Finance Data Engineering @ XYZ
