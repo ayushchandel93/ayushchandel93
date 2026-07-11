@@ -1,7 +1,15 @@
-# Hi, I'm Ayush Chandel 👋
+## Hi, I'm Ayush Chandel 👋
 
-Data Engineer with experience building scalable pipelines, analytical data models, 
-and BI solutions across cloud and on-premise environments.
+Data Engineer with experience building scalable pipelines, analytical data 
+models, and BI solutions across cloud and on-premise environments.
+
+🔭 Currently building: Real-time e-commerce streaming pipeline (Kafka + Spark)
+
+🌱 Learning: Streaming architectures and advanced dbt patterns
+
+💼 Open to: Data Engineer and BI Engineer roles
+
+📍 Based in: CA, US
 
 ## 🛠 Tech Stack
 
