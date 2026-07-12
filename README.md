@@ -3,7 +3,7 @@
 Data Engineer with experience building scalable pipelines, analytical data 
 models, and BI solutions across cloud and on-premise environments.
 
-🔭 Currently building: Real-time e-commerce streaming pipeline (Kafka + Spark)
+🔭 Currently building: Real-Time Stock Market Streaming pipeline (Kafka + Spark)
 
 🌱 Learning: Streaming architectures and advanced dbt patterns
 
