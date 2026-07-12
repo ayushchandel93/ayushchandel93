@@ -59,7 +59,7 @@ across Washington state zip codes. Bronze → Silver → Gold → daily analytic
 PySpark batch pipeline processing 5.4M NYC taxi trips through bronze/silver/gold layers. 
 Identified and removed 549K rows (9.2%) of bad data. Streamlit dashboard on top.
 
-`PySpark` `Docker` `Parquet` `Streamlit` `Plotly`
+`PySpark` `Docker` `Parquet` `Streamlit`
 
 ---
 
