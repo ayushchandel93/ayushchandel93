@@ -1,15 +1,13 @@
 ## Hi, I'm Ayush Chandel 👋
 
-Data Engineer with experience building scalable pipelines, analytical data 
+Data Engineer with experience building scalable pipelines, analytical data
 models, and BI solutions across cloud and on-premise environments.
-
-🔭 Currently building: Real-Time Stock Market Streaming pipeline (Kafka + Spark)
 
 🌱 Learning: Streaming architectures and advanced dbt patterns
 
 💼 Open to: Data Engineer and BI Engineer roles
 
-📍 Based in: CA, US
+📍 Based in: California
 
 ## 🛠 Tech Stack
 
@@ -47,16 +45,16 @@ models, and BI solutions across cloud and on-premise environments.
 
 ## 📂 Featured Projects
 
-### 🌤 [Weather & Air Quality Pipeline](https://github.com/ayushchandel93/weather-pipeline)
-End-to-end medallion architecture pipeline ingesting weather and air quality data 
-across Washington state zip codes. Bronze → Silver → Gold → daily analytics.
+### 📈 [Real-Time Stock Market Streaming Pipeline](https://github.com/ayushchandel93/stock-streaming-pipeline)
+Live stock prices via yfinance → Kafka → Spark Structured Streaming → DuckDB.
+12 anomalies detected in first 3 minutes. Auto-refreshing Streamlit dashboard.
 
-`Python` `Pandas` `Parquet` `Medallion Architecture` `Schedule`
+`Kafka` `Spark Streaming` `DuckDB` `Docker` `Streamlit` `yfinance`
 
 ---
 
 ### 🚕 [NYC Taxi Analytics — PySpark](https://github.com/ayushchandel93/nyc-taxi-spark)
-PySpark batch pipeline processing 5.4M NYC taxi trips through bronze/silver/gold layers. 
+PySpark batch pipeline processing 5.4M NYC taxi trips through bronze/silver/gold layers.
 Identified and removed 549K rows (9.2%) of bad data. Streamlit dashboard on top.
 
 `PySpark` `Docker` `Parquet` `Streamlit`
@@ -64,7 +62,7 @@ Identified and removed 549K rows (9.2%) of bad data. Streamlit dashboard on top.
 ---
 
 ### 📊 [SEC Financial Analytics](https://github.com/ayushchandel93/sec-financial-pipeline)
-dbt + DuckDB pipeline ingesting SEC EDGAR financial filings for 30 tech companies. 
+dbt + DuckDB pipeline ingesting SEC EDGAR financial filings for 30 tech companies.
 NVDA gross margin jump from 57% → 73% in 2024 visible in the data.
 
 `dbt` `DuckDB` `SEC EDGAR API` `Streamlit` `Pandas`
@@ -72,18 +70,26 @@ NVDA gross margin jump from 57% → 73% in 2024 visible in the data.
 ---
 
 ### 🏪 [E-Commerce Data Warehouse](https://github.com/ayushchandel93/ecommerce-dw)
-Star schema data warehouse on SQL Server with advanced T-SQL analytics. 
+Star schema data warehouse on SQL Server with advanced T-SQL analytics.
 RFM segmentation, cohort retention, YoY growth, discount impact analysis.
 
 `SQL Server` `Star Schema` `T-SQL` `Docker` `Python`
 
 ---
 
+### 🌤 [Weather & Air Quality Pipeline](https://github.com/ayushchandel93/weather-pipeline)
+End-to-end medallion architecture pipeline ingesting weather and air quality data
+across Washington state zip codes. Bronze → Silver → Gold → daily analytics.
+
+`Python` `Pandas` `Parquet` `Medallion Architecture` `Schedule`
+
+---
+
 ## 📈 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchandel93&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayushchandel93&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchandel93&layout=compact&theme=dark&hide_border=true)
+**Primary languages:** Python · SQL · T-SQL
 
 ---
 
