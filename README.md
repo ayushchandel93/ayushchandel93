@@ -5,7 +5,7 @@ models, and BI solutions across cloud and on-premise environments.
 
 🌱 Learning: Streaming architectures and advanced dbt patterns
 
-💼 Open to: Data Engineer and BI Engineer roles
+💼 Open to: Data Engineer, BI Engineer & Data Analyst roles
 
 📍 Based in: California
 
